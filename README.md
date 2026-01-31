@@ -15,5 +15,4 @@ Logging support
 🛠 Technologies
 Java
 IntelliJ IDEA / Eclipse
-📂 Project Structure
-PaymentGatewaySimulator/ │ ├── src/payment/ │ ├── Payment.java │ ├── CardPayment.java │ ├── UPIPayment.java │ ├── NetBankingPayment.java │ ├── Logger.java │ └── Discount.java │ └── src/main/ └── PaymentApp.java
+
